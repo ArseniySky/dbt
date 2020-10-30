@@ -14,6 +14,7 @@ RUN apt-get update \
     make \
     build-essential \
     ca-certificates \
+    unzip \
     libpq-dev \
     libsasl2-dev \
     libsasl2-2 \
